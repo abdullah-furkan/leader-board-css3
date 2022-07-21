@@ -126,12 +126,12 @@ hr {
 
 .course-duration {
     background-color: rgb(214, 212, 127);
-    color: rgba(255, 0, 0, 0.267);
+    color: rgba(211, 36, 36, 0.938);
     border-radius: 25%;
 }
 
 .fa-clock {
-    color: rgba(255, 0, 0, 0.267);
+    color: rgba(240, 37, 37, 0.938);
 }
 
 /* ----------------------------------Media queries--------------------- */
